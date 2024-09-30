@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#count-value {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+#paragraph p {
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+#buttons button {
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+#buttons button:hover {
+    opacity: 0.9;
+}
